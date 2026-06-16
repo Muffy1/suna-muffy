@@ -57,7 +57,7 @@ dependencies = [
   "vtracer>=0.6.0",
   "replicate>=0.25.0",
   "mcp==1.9.4",
-  "aiohttp==3.12.0",
+  "aiohttp==3.14.1",
   "httpx>=0.27.0",
   "email-validator==2.0.0",
   "mailtrap==2.0.1",
