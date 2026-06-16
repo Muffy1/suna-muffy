@@ -10,7 +10,7 @@ pytest-asyncio>=0.24.0
 pytest-timeout>=2.3.0
 
 # JWT token generation
-pyjwt>=2.8.0
+pyjwt>=2.13.0
 
 # Supabase client (for test user creation via Admin API)
 supabase>=2.0.0
